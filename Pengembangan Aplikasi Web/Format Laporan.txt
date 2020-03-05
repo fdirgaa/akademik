@@ -1,9 +1,0 @@
-Format Laporan :
-	1. Cover
-	2. Tujuan
-	3. Pembahasan
-		Pembahasan Listing
-		Pembahasan Latihan
-		Pembahasan Tugas
-	4. Kesimpulan
-	5. Lampiran
