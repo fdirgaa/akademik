@@ -1,5 +1,0 @@
-1. Sebutkan 3 tag komentar yang dapat digunakan dalam PHP!
-
-2. Sebutkan 2 predifiend variable php yang digunakan untuk mengambil nilai dari form HTML!
-
-3. Tuliskan kode program untuk menampilkan nama dan nim pada browser!

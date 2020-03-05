@@ -1,9 +1,0 @@
-1. Action adalah digunakan untuk mengirim data. (B/S)
-
-2. Method adalah cara protokol http menerima data. (B/S)
-
-3. Target digunakan untuk menentukan lokasi untuk manampilkan respon dari server setelah proses submit. (B/S)
-
-4. Sebutkan pilihan yang dapat digunakan pada Target.
-
-5. Apa perbedaan POST dan GET.
