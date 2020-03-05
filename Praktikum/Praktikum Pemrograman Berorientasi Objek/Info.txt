@@ -1,0 +1,14 @@
+Kode Classroom : g3hc5lu
+
+Format Penamaan File :
+Listing : LISTING_PBO_PERT1_NIM
+Laporan	: LAPORAN_PBO_PERT1_NIM
+
+Laporan	:
+	Cover,
+	Teori Singkat,
+	Penjelasan Listing,
+	Penjelasan Latihan,
+	Penjelasan Tugas,
+	Kesimpulan
+	
