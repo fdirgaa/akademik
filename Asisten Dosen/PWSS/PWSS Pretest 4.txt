@@ -1,0 +1,4 @@
+1. Apa perbedaan indexed array dengan associative array?
+2. Tuliskan script untuk menghitung jumlah element yang terdapat pada array di PHP!
+3. Apa perbedaan antara perulangan for dan perulangan foreach!
+4. Tuliskan script untuk membuat array buah yang berisi Mangga, Durian, Apel, dan Pisang.!

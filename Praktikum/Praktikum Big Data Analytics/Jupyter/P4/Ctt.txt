@@ -1,0 +1,7 @@
+Crawling-> Scrapting
+
+Cara Scrapting
+1. API Twitter -> Daftar untuk meminta "kode"; Data yang dikumpulkan hanya 7hari dibelakang(mengirim request ke twitter); 
+2. Twitter Scraptter
+
+

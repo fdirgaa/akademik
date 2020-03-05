@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Grafika - Picker-Draw</title>
+    <style>
+        canvas {
+            border: 1px dotted #333;
+        }
+    </style>
+    <link rel="stylesheet" href="stylepicker.css">
+</head>
+<body>
+        <canvas width="500" height="500"></canvas><br>
+        <div id="picker">
+            <br>
+            <label for="color-input" id="color-label" style="background-color: green"></label>
+            <input type="checkbox" id="color-input" checked>
+    
+            <div id="color-picker">
+                <canvas id="color-block" height="150" width="150"></canvas>
+                <canvas id="color-strip" height="150" width="30"></canvas>
+            </div>
+        </div>
+        <button onclick="bersihkan()">Clear Canvas</button>
+        <br>
+        Ganti Ukuran <br>
+        <button onclick="ukurankecil()">Kecil</button>
+        <button onclick="ukuransedang()">Sedang</button>
+        <button onclick="ukuranbesar()">Besar</button>
+        <script src="P09canvas.js"></script>
+</body>
+</html>

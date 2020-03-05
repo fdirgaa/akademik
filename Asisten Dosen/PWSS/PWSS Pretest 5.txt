@@ -1,0 +1,7 @@
+1. Sebutkan 4 jenis built in function pada PHP.
+
+2. Apa fungsi dari rand(), sqrt(), dan ceil().
+
+3. Tuliskan struktur umum untuk membuat function pada PHP.
+
+4. Buatlah function untuk menampilkan nama dan nim masing-masing.
