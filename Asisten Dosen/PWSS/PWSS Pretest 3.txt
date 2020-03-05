@@ -1,0 +1,9 @@
+1. Sebutkan jenis struktur kontrol yang terdapat pada PHP
+
+2. Apa perbedaan For dengan While.
+
+3. Tuliskan script untuk melakukan seleksi jika :
+	Belanja lebih dari 500000 akan menampilkan pesan "Dapat diskon 20%"
+	Belanja lebih dari 200000 akan menampilkan pesan "Dapat diskon 10%"
+	Belanja kurang dari 200000 akan menampilkan pesan "Tidak dapat diskon"
+	
